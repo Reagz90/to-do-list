@@ -1,0 +1,35 @@
+
+.container {
+  text-align: center;
+}
+
+.btn-toggle {
+  margin: 5px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+body.dark-theme {
+  color: #eee;
+  background: #121212;
+}
+
+button {
+  margin: 5px;
+}
+
+#checkbox {
+  margin: 5px;
+}
+
+ul {
+  list-style-type:none;
+}
+
+body {
+  margin: 5px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+
