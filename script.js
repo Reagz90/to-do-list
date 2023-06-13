@@ -36,7 +36,7 @@ function createListElement() {
   deleteButton.appendChild(document.createTextNode("Delete"));
   deleteButton.classList.add("btn");
   deleteButton.classList.add("btn-danger");
-  deleteButton.classList.add("btn-sm"); 
+  deleteButton.classList.add("btn-sm");
   li.appendChild(document.createTextNode(input.value));
   ul.appendChild(li);
   li.appendChild(deleteButton);
