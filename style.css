@@ -3,11 +3,12 @@
   text-align: center;
 }
 
-.btn-toggle {
-  margin: 5px;
-  position: absolute;
-  top: 10px;
-  right: 10px;
+footer { 
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
 }
 
 body.dark-theme {
